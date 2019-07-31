@@ -5,6 +5,6 @@ SonarQube Scanner for Jenkins
 Jacoco
 TaskScanner plugin
 Junit Attachment
+Artifactory plugins
 Embeddable Build Status
-Artifactory
 CloudBees Docker Build and Publish
