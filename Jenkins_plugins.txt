@@ -4,6 +4,7 @@ GreenBall
 SonarQube Scanner for Jenkins
 Jacoco
 TaskScanner plugin
+quality gates
 Junit Attachment
 Artifactory plugins
 Embeddable Build Status
