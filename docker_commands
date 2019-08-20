@@ -46,6 +46,8 @@ https://jenkins.io/doc/pipeline/steps/docker-workflow/
 docker login    --> Provider username and Password
 docker push <repoNameWithTag>                       --> eg: docker push manee2k6/nginx:1.0
 
+https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html      --> refer this url to know more about push and pull of images. 
+
 docker inspect <imageID>                            --> To inspect the configuration of Images created..
 docker inspect <repoName:tagName>                   --> To inspect the configuration of Repository.
 
