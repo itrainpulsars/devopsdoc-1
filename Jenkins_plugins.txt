@@ -9,3 +9,5 @@ Junit Attachment
 Artifactory plugins
 Embeddable Build Status
 CloudBees Docker Build and Publish
+Docker
+Docker Compose Build Step
